@@ -1,0 +1,26 @@
+{
+      "directed": false,
+      "multigraph": false,
+      "graph": {},
+      "nodes": [
+            {
+                  "id": 960
+            },
+            {
+                  "id": 1220
+            },
+            {
+                  "id": 958
+            }
+      ],
+      "links": [
+            {
+                  "source": 960,
+                  "target": 958
+            },
+            {
+                  "source": 960,
+                  "target": 1220
+            }
+      ]
+}
